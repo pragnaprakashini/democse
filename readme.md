@@ -1,2 +1,2 @@
 #demo
-this is sample document
+this is demo document
